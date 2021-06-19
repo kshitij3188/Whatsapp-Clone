@@ -21,12 +21,12 @@
     border-radius: 20px;
 }
 
-.MuiSvgIcon-root {
+.sidebar__searchContainer > .MuiSvgIcon-root {
     color: grey;
     padding: 10px;
 }
 
-#search {
+.sidebar__searchContainer > input {
     border: none;
     margin-left: 10px;
 }
@@ -49,4 +49,10 @@
 .sidebar__headerRight > .MuiSvgIcon-root {
     margin-right: 2vw;
     font-size: 24px !important;
+}
+
+.sidebar__chats {
+    flex: 1;
+    background-color: white;
+    overflow: scroll;
 }
