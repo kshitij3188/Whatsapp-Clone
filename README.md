@@ -1,4 +1,3 @@
-![What's App Clone](https://socialify.git.ci/robin025/whatsapp-clone-react/image?font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 # WhatsApp web app
 - A WhatsApp web app clone with google authentication
 
@@ -17,16 +16,4 @@
 
 
 ## Preview
-- https://whatsapp-web-app.web.app/
-
-## Devlopment
-
-```
-$ git clone https://github.com/robin025/whatsapp-clone-react.git
-$ cd whatsapp-web-app
-$ npm install && npm start
-```
-
-
-
-
+- https://whatsapp-clone-4bd23.web.app
