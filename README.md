@@ -15,5 +15,5 @@
 - material-ui icons
 
 
-## Preview
+## Live Website
 - https://whatsapp-clone-4bd23.web.app/
