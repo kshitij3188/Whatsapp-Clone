@@ -3,7 +3,6 @@ import firebase from "firebase";
 const firebaseConfig = {
   apiKey: "AIzaSyCcXyfDxVLNDORbYEQ72kKLd7LFG32-CJA",
   authDomain: "whatsapp-clone-4bd23.firebaseapp.com",
-  // databaseURL: "https://whatsapp-web-app.firebaseio.com",
   projectId: "whatsapp-clone-4bd23",
   storageBucket: "whatsapp-clone-4bd23.appspot.com",
   messagingSenderId: "984971410528",
